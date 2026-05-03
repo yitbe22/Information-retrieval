@@ -4,6 +4,14 @@
 **Course:** Information Retrieval  
 **Date:** April 2026
 
+## Group Members
+
+- **Michael Yerom** — UGR/8127/17  
+- **Yishak Tamirat** — UGR/8090/17  
+- **Hyder Yishak** — UGR/8455/17  
+- **Yitbarek Tesfaye** — UGR/4389/17  
+- **Firaol Terefe** — UGR/5582/17  
+- **Moa Sisay** — UGR/5706/17
 
 ---
 
